@@ -74,7 +74,7 @@ Bonus #2: ensure that each feature is comma-separated but the entire sentence en
 For example: 'white, citroen, c1, 2016.'
 Hint - For this step you'll need to check if we are on the last key and if so, treat it differently than we did in Bonus #1.  
 ------------------*/
-let car = {
+ let car2 = {
   color: "white",
   make: "citroen",
   model: "c1",
